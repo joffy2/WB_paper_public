@@ -22,12 +22,21 @@ In the data sub-directory there is a list of possible borrowers from the World B
 Other data must be sourced from the original publishers:
 
  World Bank project dataset -  https://www.aiddata.org/data/world-bank-geocoded-research-release-level-1-v1-4-2
+ 
  Birds dataset can be requested here - http://datazone.birdlife.org/species/requestdis
+ 
  Mammals and amphibians - https://www.iucnredlist.org/resources/spatial-data-download
+ 
  KBA dataset can be requested here - http://datazone.birdlife.org/site/requestgis
+ 
  Protected areas - https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA
+ 
  Biodiversity hotspots - https://zenodo.org/record/3261807#.YQlvkY5KiUn
+ 
  Countries and districts - https://gadm.org/
+ 
  Population data from here - https://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-count-adjusted-to-2015-unwpp-country-totals-rev11/data-download
+ 
  Corruption Perception Index - https://www.transparency.org/en/cpi/2020/index/
+ 
  Gross National Income - https://databank.worldbank.org/reports.aspx?source=2&series=NY.GNP.PCAP.CD
