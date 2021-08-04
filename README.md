@@ -5,8 +5,10 @@ This directory contains the jupyter notebooks to reproduce the analysis in the G
  Potentially harmful World Bank projects are proximate to and areas of biodiversity conservation importance
 
 ## Python folder
- The bases_projects notebook creates reference rasters at 5, 10, 25 and 50 km resolutions and assigns points presenting project activities with cell values for each resolution. This cell values are later used to aggregate the dataset
+ The bases_projects notebook creates reference rasters at 5, 10, 25 and 50 km resolutions and assigns points presenting project activities with cell values for each resolution.  These cell values are later used to aggregate the dataset
+ 
  The species notebook creates rasters with the count of overlapping ranges of globally threatened birds, mammals, and amphibians.
+ 
  The bio_areas notebook creates rasters with the presence or absence of a biodiversity hotspot, Protected area or Key Biodiversity Area
 
 ## R folder
