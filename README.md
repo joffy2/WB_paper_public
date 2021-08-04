@@ -1,5 +1,4 @@
-# WB_paper_public
-code from ‘Potentially harmful World Bank projects are proximate to and areas of biodiversity conservation importance’
+# code from ‘Potentially harmful World Bank projects are proximate to and areas of biodiversity conservation importance’
 
 This directory contains the jupyter notebooks to reproduce the analysis in the Global Environmental Change paper:
 
