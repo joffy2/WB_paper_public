@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # Notebook checkpoints
-/.ipynb_checkpoints
+.ipynb_checkpoints
